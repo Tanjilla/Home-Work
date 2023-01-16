@@ -23,7 +23,7 @@ public class AboutMeTest {
 		alex.age = 30;
 		alex.birthdayMonth = 006;
 		alex.birthdayDay = 0620;
-		alex.birthdayYear = 19986724547l;
+		alex.birthdayYear = 1998624547l;
 		alex.height = 5.07f;
 		alex.weight = 190.00;
 		alex.sex = 'M';
