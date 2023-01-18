@@ -9,7 +9,7 @@ public class AboutMeTest {
 		tanjilla.age = 21;
 		tanjilla.birthdayMonth = 007;
 		tanjilla.birthdayDay = 277;
-		tanjilla.birthdayYear = 200145628l;
+		tanjilla.birthdayYear = 2147483648l;
 		tanjilla.height = 5.001f;
 		tanjilla.weight = 150.00;
 		tanjilla.sex = 'F';
