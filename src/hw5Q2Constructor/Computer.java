@@ -19,8 +19,9 @@ public class Computer {
 		this.price = price;
 		this.grade = grade;
 		this.madeInUSA = madeInUSA;
-		System.out.println("The Brand is " + brand + ", The Model is " + model + ", The Operating System is " + operatingSystem
-				+ ", The Price is " + price + ", The Grade is " + grade + ", It's Made is USA " + madeInUSA);
+		System.out.println(
+				"The Brand is " + brand + ", The Model is " + model + ", The Operating System is " + operatingSystem
+						+ ", The Price is " + price + ", The Grade is " + grade + ", It's Made is USA " + madeInUSA);
 	}
 
 	public Computer(long price, char grade, boolean madeInUSA) {
@@ -34,10 +35,9 @@ public class Computer {
 		this.brand = brand;
 		this.model = model;
 		this.operatingSystem = operatingSystem;
-		
-		System.out.println("The Brand is " + brand + ", The Model is " + model + ", The Operating System is " + operatingSystem);
-		
+
+		System.out.println(
+				"The Brand is " + brand + ", The Model is " + model + ", The Operating System is " + operatingSystem);
+
 	}
 }
-	
-	
